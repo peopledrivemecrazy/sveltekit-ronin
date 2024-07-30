@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&family=Montserrat:wght@300&display=swap');
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	padding: 4em;
+    font-family: "IBM Plex Mono", monospace;
+}
